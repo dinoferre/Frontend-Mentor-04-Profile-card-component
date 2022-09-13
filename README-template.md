@@ -2,8 +2,8 @@
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Links
-- Solution URL: [(https://github.com/dinoferre/Frontend-Mentor-04-Profile-card-component.git)]
-- Live Site URL: [(https://dinoferre.github.io/Frontend-Mentor-04-Profile-card-component/)]
+- Solution URL: https://github.com/dinoferre/Frontend-Mentor-04-Profile-card-component.git
+- Live Site URL: https://dinoferre.github.io/Frontend-Mentor-04-Profile-card-component/
 
 ### Built with
 - Semantic HTML5 markup
